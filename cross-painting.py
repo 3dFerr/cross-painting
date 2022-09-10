@@ -3,5 +3,6 @@
 # for setup processing python enviroment
 
 def setup():
-  size(600,300)
-  background(0)
+  size(600,300) # you can change the size of window
+  background(0) # color background set to black. choose you favorite color
+
